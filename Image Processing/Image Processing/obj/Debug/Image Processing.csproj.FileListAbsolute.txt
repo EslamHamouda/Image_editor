@@ -1,0 +1,17 @@
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\openCV.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.AssemblyReference.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Form1.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\ImageProcessor.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\System.ValueTuple.dll
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\ImageProcessor.xml
+C:\Users\Eslam Hamouda Ali\source\repos\Image Processing\Image Processing\bin\Debug\System.ValueTuple.xml
